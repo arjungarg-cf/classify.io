@@ -15,10 +15,5 @@ This project aims to build a working Machine Learning Model to classify everyday
 ### XCeption
 ![Xception](https://github.com/arjungarg-cf/classify.io/blob/main/Images/Xception_arch.png?raw=true)
 
-## Results
-![Results](https://github.com/arjungarg-cf/classify.io/blob/main/Images/f1andrecallCNN.png?raw=true)
 
-
-
-
-## [Paper](https://drive.google.com/file/d/1qcwOL0hyxuoKVo5pAc4Qu_pKhU5KcHlV/view?usp=sharing)
+## [Paper with Results](https://drive.google.com/file/d/1QbIF5VkLNjZ1x4HzdlCU7Wr3lDYO7set/view?usp=sharing)
